@@ -1,0 +1,87 @@
+.ourproject {
+  border-radius: 4px;
+  border: 2px solid #010101;
+  background: #096bd8;
+  top: 40px;
+  left: 83px;
+  padding: 40px 60px;
+  /* background: url("/images/ourproject1.png");
+  background-repeat: no-repeat; */
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  box-shadow: 5px 5px #010101;
+}
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+.title h3 {
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #f8f8f8;
+}
+.title p {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #f8f8f8;
+}
+.button button {
+  width: 100px;
+  height: 51px;
+  top: 61px;
+  left: 1114px;
+}
+.box {
+  display: flex;
+  justify-content: space-between;
+}
+.left button {
+  margin-top: 40px;
+}
+.left h3 {
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #f8f8f8;
+  margin: 40px 0;
+}
+.left .topic {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #f8f8f8;
+}
+.left .sub_topic {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #f8f8f8;
+}
+.star {
+  /* position: relative; */
+  /* bottom: 0; */
+  display: flex;
+  justify-content: center;
+  margin-bottom: -40px;
+  /* width: 246px */
+  /* height: 138px; */
+}

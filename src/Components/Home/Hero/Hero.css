@@ -1,0 +1,64 @@
+/* hero section css  --------------------------------------------------*/
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* width: 1234px;
+  height: 345px; */
+  top: 130px;
+  left: 80px;
+  gap: 188px;
+}
+.hero .text h1 {
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 67.2px;
+  color: #010101;
+  width: 523px;
+  height: 201px;
+}
+.hero .text span {
+  color: #096bd8;
+}
+.hero .heroImg {
+  width: 532px;
+  height: 345px;
+}
+.hero .heroImg img {
+  width: 100%;
+  float: right;
+}
+.hero_action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2% 0;
+}
+.hero_action .hero_button span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.hero_action .hero_button span img {
+  width: 33px;
+  height: 33px;
+  margin-left: 3px;
+}
+.hero_action p {
+  width: 606px;
+  height: 90px;
+  top: 515px;
+  left: 754px;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: justified;
+}

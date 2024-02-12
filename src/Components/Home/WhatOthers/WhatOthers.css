@@ -1,0 +1,99 @@
+.WhatOthers {
+  top: 40px;
+  left: 80px;
+
+  background: #f2f5f2;
+}
+.WhatOthers2 {
+  padding: 40px 60px;
+  border-radius: 4px;
+  border: 2px solid #010101;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}
+.cardSection {
+  display: flex;
+  justify-content: space-between;
+}
+.WhatOthers h1 {
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #010101;
+  text-align: center;
+}
+.WhatOthers p {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: justified;
+  color: #010101;
+  text-align: center;
+}
+
+/* css for card  */
+.WhatOthersCard {
+  border-radius: 2px;
+  border: 2px solid #010101;
+  padding: 25px 25px 0px 25px;
+  margin: 20px 0 57px 0;
+  width: 366px;
+  height: 350px;
+}
+.body .open {
+  float: left;
+  margin-bottom: 20px;
+}
+.body .close {
+  float: right;
+  margin-bottom: 20px;
+}
+.open,
+.close {
+  width: 30px;
+  height: 25px;
+  top: 10px;
+  left: 10px;
+}
+.body .testimony {
+  font-family: Montserrat;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: justified;
+  padding: 25px 0;
+}
+.WhatOthersfooter {
+  display: flex;
+  margin-top: 40px;
+  align-items: center;
+}
+.WhatOthersfooter img {
+  width: 60px;
+  height: 60px;
+  margin-right: 1rem;
+}
+.content .name {
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.content .position {
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: justified;
+}

@@ -1,0 +1,27 @@
+button {
+  color: #f8f8f8;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 112%; /* 17.92px */
+  display: inline-flex;
+  padding: 14px 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border-radius: 2px;
+  border: 2px solid #010101;
+  background: #096bd8;
+  box-shadow: 5px 5px #010101;
+}
+.social_icon {
+  width: 37px;
+  height: 37px;
+  border: 1px solid #010101;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1rem;
+  box-shadow: 3px 3px #010101;
+}
